@@ -6,4 +6,4 @@
 
 Formado em Engenharia de Produção mas sempre resolvi meus problemas usando a tecnologia. Durante quase 5 anos trabalhei em projetos de automação de processos utilizando VB (Visual Basic) e SQL para gerenciamento de grandes quantidades de fluxos de dados.
 
-Atualmente sou Desenvolvedor Web Full Stack Java e acredito que através da tecnologia poderemos ter um mundo cada vez mais moderno e um lugar melhor para se viver. 
+Atualmente sou Desenvolvedor Web Full Stack Java e acredito que, através dos interesses comuns entre pessoas inconformadas e ligadas pela tecnologia, teremos um mundo cada vez mais moderno e um lugar melhor para se viver.
