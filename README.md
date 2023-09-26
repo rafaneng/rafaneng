@@ -4,6 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaneng@gmail.com)](mailto:rafaneng@gmail.com/)
 [![GitHub followers](https://img.shields.io/github/followers/rafaneng.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rafaneng?tab=followers)
 
-Atualmente sou Desenvolvedor Web Full Stack Java e acredito que, através dos interesses comuns entre pessoas inconformadas e ligadas pela tecnologia, teremos um mundo cada vez mais moderno e um lugar melhor para se viver.
+Ao longo da minha vida profissional, passei por diversas áreas e tive contato com muitas pessoas, o que me ajudou a construir uma visão ampla em diferentes áreas.
 
-Formado em Engenharia de Produção mas sempre resolvi meus problemas usando a tecnologia. Durante quase 5 anos trabalhei em projetos de automação de processos utilizando VB (Visual Basic) e SQL para gerenciamento de grandes quantidades de fluxos de dados.
+- Um ano de logística e automatizei diversos processos utilizando Visual Basic for Applications no Excel, o famoso VBA;
+- Quatro anos marketing e também automatizei processos com VBA mas o grande legado foi uma aplicação de Convites Digitais construída com HTML, CSS e Vanilla JavaScript e o backend em ASPNET (um amigo me ajudou, pois eu não tinha conhecimento).
+
+Nos últimos anos, fiz minha transição de carreira para área de TI, atuando em projetos web e mobile com arquiteturas monolíticas e micro-serviços hospedadas on-premise e cloud. Acredito fortemente que, através dos interesses comuns entre pessoas inconformadas e ligadas pela tecnologia, teremos um mundo cada vez mais moderno e um lugar melhor para se viver.
